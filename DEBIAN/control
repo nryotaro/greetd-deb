@@ -1,5 +1,5 @@
-Package: greetd
-Version: 0.8.0
-Maintainer: Ryotaro Nakamura <nakamura.ryotaro.kzs@gmail.com>
+Package: greetd-gtk
+Version: 0.0.1
+Maintainer: Ryotaro Nakamura
 Architecture: amd64
-Description: self-built dunst
+Description: self-built greetd gtkgreet

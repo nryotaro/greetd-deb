@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo userdel greeter
+sudo rm -rf /etc/greetd

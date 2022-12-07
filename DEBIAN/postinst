@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo useradd -M -G video greeter
+sudo chmod -R go+r /etc/greetd/
